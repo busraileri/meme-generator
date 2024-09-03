@@ -1,9 +1,5 @@
 # Meme Generator
 
-This project is a React-based web application that allows users to generate and customize meme images. The application fetches meme templates from an external API, enables users to add text to the images, and provides an option to save and download the customized memes.
-
-
-
 ## Features
 - **Random Meme Selection**: Fetch and display a random meme image from a predefined list.
 - **Text Customization**: Add and style top and bottom text on the meme.
