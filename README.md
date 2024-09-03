@@ -4,7 +4,7 @@ This project is a React-based web application that allows users to generate and 
 
 
 
-## Features: 
+## Features
 - **Random Meme Selection**: Fetch and display a random meme image from a predefined list.
 - **Text Customization**: Add and style top and bottom text on the meme.
 - **Save and Download**: Save the customized meme as a PNG image. 
