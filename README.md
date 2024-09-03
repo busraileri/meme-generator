@@ -10,10 +10,10 @@ This project is a React-based web application that allows users to generate and 
 - **Save and Download**: Save the customized meme as a PNG image. 
 
 ## Technologies Used
--React
--HTML Canvas API
--CSS
--Vercel
+- React
+- HTML Canvas API
+- CSS
+- Vercel
 
 ## Key Concepts
 - **Event Listeners**: Used for handling user interactions such as button clicks and form changes.
